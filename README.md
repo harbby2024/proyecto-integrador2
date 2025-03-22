@@ -1,8 +1,8 @@
 
 INTEGRANTES 
 Andres Felipe Tobón Arenas
-María Alejandra Suares
-Melisa Suares 
+María Alejandra Suarez
+Melisa Suarez
 María Alejandra Morales 
 
 Doit English Academy - Aplicación Web
