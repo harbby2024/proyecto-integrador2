@@ -1,0 +1,137 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@300..700&family=Geologica:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap');
+:root {
+  font-family: "Comfortaa", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-image: url(assets/backgrount-DOIT.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* DISEÑO LANDING PAGE PRINCIPAL */
+
+.contenedor{
+  display: grid;
+  grid-template-columns: repeat(18, 1fr);
+  position: absolute;
+}
+.contenedor img {
+  grid-column: 12/14;
+  margin-top: 30%;
+  height: 500px;
+  
+}
+
+.botoneslanding {
+  display:inline;
+  text-align: center;
+  margin-top: 600px;
+
+}
+
+.botonInicio {
+  border: 0;
+  border-radius: 70px;
+  background-color: #F21D1D;
+  margin-bottom: 30px;
+  width: 280px;
+  height: 50px;
+}
+
+.botonInicio:hover{
+  border: 0;
+  border-radius: 70px;
+  background-color: #f21d1dcf;
+  
+}
+
+.botonInicio a {
+  font-family: "Comfortaa", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  color: white;
+  text-decoration: none;
+}
+
+
+
+button.botonRegistro {
+  background: none;
+  border: 0;
+  text-align: center;
+  font-family: "Comfortaa", sans-serif;
+  font-size: 20px;
+  margin-top: -30px;
+  color: #F21D1D;
+  
+}
+button.botonRegistro:hover{
+  color: #f21d1dbf;
+}
+button.botonRegistro a {
+  color: #F21D1D;
+  font-size: 25px;
+  text-decoration:underline;
+}
+
+button.botonRegistro a:hover{
+  text-decoration:none;
+}
+
+.formulario-priueba {
+  background-color: aqua;
+}
+
+/* FORMULARIO INICIO DE SESIÓN */
+
+.formulario-inicio-sesion{
+  position:absolute;
+  top: 80px;
+  margin-left: 500px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  width: 800px;
+  height: 700px;
+  border-radius: 20px;
+  border:  1px solid rgb(218, 20, 20);
+}
+
+
+.formulario-inicio-sesion h1 {
+  color: #F21D1D;
+  font-size: 30px;
+}
+
+.formulario-inicio-sesion h2 {
+  color: #686868;
+  font-size: 15px;
+}
+
+.formInicioDeSesion {
+  background-color: #F21D1D;
+}
+
+.formInicioDeSesion {
+  color: #fffdfd;
+  
+}
+
+.formInicioDeSesion h3 {
+  color: #686868;
+  
+  
+}
+
+
