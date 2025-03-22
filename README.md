@@ -1,4 +1,10 @@
 
+INTEGRANTES 
+Andres Felipe Tobón Arenas
+María Alejandra Suares
+Melisa Suares 
+María Alejandra Morales 
+
 Doit English Academy - Aplicación Web
 
 Doit English Academy es una aplicación web diseñada para una academia de inglés que se adapta a personas de todas las edades, desde jóvenes hasta adultos mayores. Su objetivo es ofrecer una plataforma moderna y accesible que facilite la gestión de horarios de clases para estudiantes y profesores, brindando una experiencia intuitiva, dinámica y adecuada a las necesidades de cada usuario, sin importar su edad. La interfaz está pensada para ser atractiva y fácil de usar, asegurando que todos los usuarios, sin importar su nivel de experiencia tecnológica, puedan disfrutar de una experiencia de aprendizaje fluida y efectiva.

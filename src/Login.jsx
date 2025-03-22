@@ -1,11 +1,6 @@
-import aprendeInglesDoIt from "./assets/Aprende-ingles-LOGO 01.png"
+import aprendeInglesDoIt from "./assets/LOGO-01-Aprende-ingles-.png"
+import Boton from "./components/Boton"
 
-
-function Boton (props){
-  return <button className="botonInicio" type="">
-    <a href={props.enlace}>{props.titulo}</a>
-  </button>
-}
 
 
 const Login = () => {

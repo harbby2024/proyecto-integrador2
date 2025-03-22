@@ -3,3 +3,5 @@ function Boton (props){
       <a href={props.enlace}>{props.titulo}</a>
     </button>
   }
+  
+  export default Boton

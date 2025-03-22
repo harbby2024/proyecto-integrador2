@@ -7,7 +7,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-image: url(assets/backgrount-DOIT.png);
+  background-image: url(src/assets/backgrount-DOIT.png);
   background-size: cover;
   background-repeat: no-repeat;
  
@@ -98,40 +98,94 @@ button.botonRegistro a:hover{
 
 .formulario-inicio-sesion{
   position:absolute;
-  top: 80px;
-  margin-left: 500px;
+  top: 150px;
+  margin-left: 700px;
   text-align: center;
   background-color: rgb(255, 255, 255);
-  width: 800px;
-  height: 700px;
+  width: 500px;
+  height: 600px;
   border-radius: 20px;
   border:  1px solid rgb(218, 20, 20);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.233) ;
 }
 
-
+.formulario-inicio-sesion img {
+  width: 450px;
+  margin-top: 55px;
+}
 .formulario-inicio-sesion h1 {
   color: #F21D1D;
   font-size: 30px;
+  margin-bottom: -08px;
 }
 
 .formulario-inicio-sesion h2 {
   color: #686868;
   font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.formulario-inicio-sesion h2 a {
+  color: #686868;
+}
+
+.formulario-inicio-sesion h2 a:hover {
+  color: #F21D1D;
+  text-decoration: none;
 }
 
 .formInicioDeSesion {
-  background-color: #F21D1D;
+  margin-top: -60px;
 }
 
 .formInicioDeSesion {
   color: #fffdfd;
+  margin-bottom: 30px;
   
 }
 
 .formInicioDeSesion h3 {
+  display: flex;
   color: #686868;
+  margin: 0;
+  margin-bottom: 02px;
+  margin-left: 50px;
   
   
 }
+
+.formInicioDeSesion input  {
+  width: 400px;
+  height: 40px;
+  background-color: #ffffff;
+  border: 1px solid #686868;
+  border-radius: 60px;
+  margin-bottom: 20px;
+}
+
+
+.formInicioDeSesion input:hover  {
+  border: 1px solid #F21D1D;
+  
+}
+
+.formInicioDeSesion a{
+  position:absolute;
+  bottom: 130px;
+  right: 240px;
+  width: 220px;
+  color: #686868;
+  font-size: 15px;
+}
+
+.formInicioDeSesion a:hover{
+  color: #F21D1D;
+  text-decoration: none;
+  
+}
+
+
+
+
 
 
